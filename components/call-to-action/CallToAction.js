@@ -20,7 +20,7 @@ const CallToAction = () => {
                   href="https://form.jotform.com/231630492021040"
                   className="btn btn-dark m-r-20 btn-md m-t-30"
                 >
-                  Comming Soon
+                  Order Now
                 </Button>
               </div>
             </div>
