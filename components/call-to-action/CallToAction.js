@@ -10,11 +10,11 @@ const CallToAction = () => {
             <div className="d-flex align-items-center">
               <div>
                 <h2 className="title text-white font-weight-bold">
-                  Pro Version coming soon
+                  Inclusive
                 </h2>
                 <h6 className="subtitle font-light text-white">
-                  We will add Pro Version with tons of great features and
-                  multiple category demos which is ready to use...
+                  100% moneyback gurantee, free examination from our resident fat doctor. 
+                  You will get expert advise about losing weight safely by eating a healthy, balanced diet and regular physical activity.
                 </h6>
                 <Button
                   href="https://form.jotform.com/231630492021040"
