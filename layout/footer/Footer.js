@@ -10,13 +10,16 @@ const Footer = () => {
         <Row>
           <Col lg="3" md="6" className="m-b-30">
             <h5 className="m-b-20">Address</h5>
-            <p>71 Amsteroum Avenue Cronish Night, NY 35098</p>
+            <p>72 Amsteroum Avenue Cronish Night, NY 34098</p>
           </Col>
           <Col lg="3" md="6" className="m-b-30">
             <h5 className="m-b-20">Phone</h5>
             <p>
-              Reception : +205 123 4567 <br />
-              Office : +207 235 7890
+              Reception : +205 123 4547 <br />
+              Office US : +207 235 7891
+            </p>
+            <p>
+              Office Kenya: +254704139377
             </p>
           </Col>
           <Col lg="3" md="6" className="m-b-30">
@@ -36,7 +39,7 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h5 className="m-b-20">Social</h5>
             <div className="round-social light">
-              <Link href="#">
+              <Link href="https://www.facebook.com/profile.php?id=100093405530335">
                 <apan className="link">
                   <i className="fa fa-facebook"></i>
                 </apan>
