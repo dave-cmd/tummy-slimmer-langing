@@ -39,7 +39,7 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h5 className="m-b-20">Social</h5>
             <div className="round-social light">
-              <Link href="https://www.facebook.com/profile.php?id=100093405530335">
+              <Link href="https://www.facebook.com/profile.php?id=100093405530335&mibextid=ZbWKwL">
                 <apan className="link">
                   <i className="fa fa-facebook"></i>
                 </apan>
