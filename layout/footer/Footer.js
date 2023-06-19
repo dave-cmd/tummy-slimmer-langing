@@ -15,7 +15,6 @@ const Footer = () => {
           <Col lg="3" md="6" className="m-b-30">
             <h5 className="m-b-20">Phone</h5>
             <p>
-              Reception : +205 123 4511 <br />
               Office US : +207 235 7811
             </p>
             <p>
