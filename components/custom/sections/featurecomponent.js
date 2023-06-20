@@ -290,8 +290,8 @@ const FeatureComponent = () => {
             <Col lg="5" md="7" className="text-center wrap-feature30-box">
               <Card className="card-shadow">
                 <CardBody>
-                  {/* <div className="p-20">
-                    <span className="label label-info label-rounded">
+                  <div className="p-20">
+                    {/* <span className="label label-info label-rounded">
                       Feature 3
                     </span> */}
                     <h3 className="title">
