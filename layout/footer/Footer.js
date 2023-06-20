@@ -43,12 +43,12 @@ const Footer = () => {
                   <i className="fa fa-facebook"></i>
                 </apan>
               </Link>
-              <Link href="#">
+              <Link href="https://twitter.com/nutristerk">
                 <span className="link">
                   <i className="fa fa-twitter"></i>
                 </span>
               </Link>
-              <Link href="#">
+              {/* <Link href="#">
                 <span className="link">
                   <i className="fa fa-google-plus"></i>
                 </span>
@@ -57,8 +57,8 @@ const Footer = () => {
                 <span className="link">
                   <i className="fa fa-youtube-play"></i>
                 </span>
-              </Link>
-              <Link href="#">
+              </Link> */}
+              <Link href="">
                 <span className="link">
                   <i className="fa fa-instagram"></i>
                 </span>

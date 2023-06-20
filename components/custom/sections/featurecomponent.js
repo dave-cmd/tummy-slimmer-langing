@@ -16,11 +16,11 @@ const FeatureComponent = () => {
           <Row className="justify-content-center">
             <Col md="7" className="text-center">
               <h1 className="title font-bold">Benefits</h1>
-              <h6 className="subtitle">
+              {/* <h6 className="subtitle">
                 Here you can check Demos we created based on WrapKit. Its quite
                 easy to Create your own dream website &amp; dashboard in
                 No-time.
-              </h6>
+              </h6> */}
             </Col>
           </Row>
         </Container>
@@ -29,9 +29,9 @@ const FeatureComponent = () => {
         <Container>
           <Row className="justify-content-center">
             <Col md="7" className="text-center">
-              <span className="label label-danger label-rounded">
+              {/* <span className="label label-danger label-rounded">
                 Feature 1
-              </span>
+              </span> */}
               <h2 className="title">Awesome with Extra Ordinary Flexibility</h2>
               <h6 className="subtitle">
                 You can relay on our amazing features list and also our customer
@@ -290,10 +290,10 @@ const FeatureComponent = () => {
             <Col lg="5" md="7" className="text-center wrap-feature30-box">
               <Card className="card-shadow">
                 <CardBody>
-                  <div className="p-20">
+                  {/* <div className="p-20">
                     <span className="label label-info label-rounded">
                       Feature 3
-                    </span>
+                    </span> */}
                     <h3 className="title">
                     Achieve Your Dream Body
                     </h3>
