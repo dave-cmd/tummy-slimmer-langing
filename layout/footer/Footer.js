@@ -58,7 +58,7 @@ const Footer = () => {
                   <i className="fa fa-youtube-play"></i>
                 </span>
               </Link> */}
-              <Link href="">
+              <Link href="https://www.instagram.com/nutristerk/">
                 <span className="link">
                   <i className="fa fa-instagram"></i>
                 </span>
